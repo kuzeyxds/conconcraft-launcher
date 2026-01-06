@@ -1,0 +1,15 @@
+{
+  "appName": "ConConCraft Launcher",
+  "autoLaunch": true,
+  "defaultVersion": "1.8.8",
+  "allowedVersions": ["1.8.8"],
+  "autoJoinServer": {
+    "ip": "play.conconcraft.net",
+    "port": 25565
+  },
+  "cracked": true,
+  "java": {
+    "minRam": 1024,
+    "maxRam": 2048
+  }
+}
